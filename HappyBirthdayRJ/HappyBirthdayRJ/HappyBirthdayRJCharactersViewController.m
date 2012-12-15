@@ -1,18 +1,18 @@
 //
-//  HappyBirthdayRJFirstViewController.m
+//  HappyBirthdayRJCharactersViewController.m
 //  HappyBirthdayRJ
 //
 //  Created by Nathanial L. McConnell on 12/14/12.
 //  Copyright (c) 2012 Nathanial L. McConnell. All rights reserved.
 //
 
-#import "HappyBirthdayRJFirstViewController.h"
+#import "HappyBirthdayRJCharactersViewController.h"
 
-@interface HappyBirthdayRJFirstViewController ()
+@interface HappyBirthdayRJCharactersViewController ()
 
 @end
 
-@implementation HappyBirthdayRJFirstViewController
+@implementation HappyBirthdayRJCharactersViewController
 
 - (void)viewDidLoad
 {

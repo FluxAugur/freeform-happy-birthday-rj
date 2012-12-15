@@ -1,5 +1,5 @@
 //
-//  HappyBirthdayRJFirstViewController.h
+//  HappyBirthdayRJIntroViewController.h
 //  HappyBirthdayRJ
 //
 //  Created by Nathanial L. McConnell on 12/14/12.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface HappyBirthdayRJFirstViewController : UIViewController
+@interface HappyBirthdayRJIntroViewController : UIViewController
 
 @end
